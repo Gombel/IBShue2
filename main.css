@@ -1,0 +1,108 @@
+#navl{
+     background-color: black;
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+    
+}
+
+
+.pull-left li{
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 300;
+    color: #000000;
+    text-decoration: none;
+    text-align: left;
+}
+             
+.pull-left a:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    display: inline;
+
+}
+
+.jumbotron{
+    background-image: url(html-code.jpg);
+    width: 1410px;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.jumbotron .container{
+    position: relative;
+  }
+
+.jumbotron h1{
+    color: #000000;
+    margin-left: 400px;
+    margin-top: -50px;
+
+}
+
+.footer{
+    margin-left: 500px;   
+    }
+    
+.pullb{
+    margin-left: 450px;
+}
+
+.pullf{
+    margin-left: 390px;
+}
+
+.button{
+    margin-left: 65px;
+    display: inline-block;
+    color: #000000;
+}   
+
+.liste ul{
+    margin-top: 80px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.privat h2{
+    text-align: center;
+    color: #000000;
+    font-family: Comic;
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+.garderobe h3{
+    
+    text-align: center;
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+
+
+.w3c{
+    margin-top: 0;
+    margin-left: 1260px;
+    
+    
+}
+
+#navbar{
+    margin-left: 500px;
+}
+
+.end h2{
+    color: #000000;
+}
+
+.impressum{
+    margin-top: 80px;   
+    margin-left: 15px;
+}
