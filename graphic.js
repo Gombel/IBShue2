@@ -4,7 +4,7 @@ google.setOnLoadCallback(diagramm);
 function newloading() {
 location.reload();
 }
-window.setTimeout("newloading()",5000);
+window.setTimeout("newloading()",30000);
 
 function diagramm() {
 
