@@ -22,7 +22,7 @@ if (xtp){
             var file = new google.visualization.DataTable();
             var stati = JSON.parse(xtp.responseText);
     file.addColumn('string', 'Topping');
-    file.addColumn('number', 'Zaehler');
+    file.addColumn('number', 'Nutzer');
             for(var i in stati){
                 file.addRows([
                     [i,stati[i]]
